@@ -5,11 +5,14 @@ The SplitQuant paper was accepted as a full paper by the [2025 EDGE AI FOUNDATIO
 
 ## Citation
 ```
-@article{song2025splitquant,
-  title={SplitQuant: Layer Splitting for Low-Bit Neural Network Quantization},
-  author={Song, Jaewoo and Lin, Fangzhen},
-  journal={arXiv preprint arXiv:2501.12428},
-  year={2025}
+@conference{song2025splitquant,
+  author    = {Song, Jaewoo and Lin, Fangzhen},
+  title     = {SplitQuant: Layer splitting for low-bit neural network quantization},
+  booktitle = {2025 Edge AI Foundation Austin},
+  month     = {February},
+  year      = {2025},
+  address   = {Austin, Texas, USA}
+  note      = {https://arxiv.org/abs/2501.12428},
 }
 ```
 
